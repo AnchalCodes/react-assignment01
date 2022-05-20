@@ -1,6 +1,30 @@
-# Getting Started with Create React App
+# Getting started
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This repo contains the source code.
+
+##Prerequisites
+
+1. Git
+
+2. Node: You’ll need to have Node 14.0.0 or later version on your local development machine.
+
+3. npm/yarn
+
+4. A fork of the repo (for any contributions)
+
+5. A clone of the react-assignment01 repo on your local machine
+
+##Installation
+
+1. cd react-assignment01 to go into the project root
+
+2. npm install / yarn to install the website's npm dependencies
+
+##Running locally
+
+1. npm start / yarn start to start the hot-reloading development server
+
+2. open http://localhost:3000 to open the site in your favorite browser
 
 ## Available Scripts
 
